@@ -6,6 +6,9 @@ email, or any other method with the owners/moderators of this repository before 
 Any New Contributors are welcomed to use the issues section and search for the #goodfirstissue label 
 or solve any other existing issue based on your abilities.
 
+Please ensure that with every change, Small or big, the entry to the CHANGELOG.md file is made in the format:<br>
+**_username (Date & Time) : changes made in 1 line_**
+
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
 ## Pull Request Process
@@ -18,6 +21,8 @@ Please note we have a code of conduct, please follow it in all your interactions
    Pull Request would represent.
 4. You may merge the Pull Request in once you have the sign-off of **two other developers**, or if you 
    do not have permission to do that, you may request the second reviewer to merge it for you.
+5. When submitting a PR for review, Ensure than an update is made to CHANGELOG.md file of the form: <br>
+   _username (Date & Time) : changes made in 1 line_
 
 ## Code of Conduct
 
